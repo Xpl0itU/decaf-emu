@@ -1,6 +1,6 @@
 [![Build status](https://github.com/decaf-emu/decaf-emu/workflows/C%2FC%2B%2B%20CI/badge.svg)](https://github.com/decaf-emu/decaf-emu/actions?workflow=C%2FC%2B%2B+CI)
 
-# decaf-emu
+# decaf-emu 
 Researching Wii U emulation. Licensed under the terms of the GNU General Public License, version 3 or later (GPLv3+).
 
 You can find us for developer discussion:
